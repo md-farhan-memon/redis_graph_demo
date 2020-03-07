@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "5e5aef1f8201264f9db85f84",
+    "name": "House Algood",
+    "region": "The Westerlands",
+    "coatOfArms": "A golden wreath, on a blue field with a gold border(Azure, a garland of laurel within a bordure or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f85",
+    "name": "House Allyrion of Godsgrace",
+    "region": "Dorne",
+    "coatOfArms": "Gyronny Gules and Sable, a hand couped Or",
+    "words": "No Foe May Pass"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f86",
+    "name": "House Amber",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f87",
+    "name": "House Ambrose",
+    "region": "The Reach",
+    "coatOfArms": "Or, semy of ants gules",
+    "words": "Never Resting"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f88",
+    "name": "House Appleton of Appleton",
+    "region": "The Reach",
+    "coatOfArms": "Or, an apple tree eradicated proper fructed gules, quartered with argent, a gatehouse cendrée",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f89",
+    "name": "House Arryn of Gulltown",
+    "region": "The Vale",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f8a",
+    "name": "House Arryn of the Eyrie",
+    "region": "The Vale",
+    "coatOfArms": "A sky-blue falcon soaring against a white moon, on a sky-blue field(Bleu celeste, upon a plate a falcon volant of the field)",
+    "words": "As High as Honor"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f8b",
+    "name": "House Ashford of Ashford",
+    "region": "The Reach",
+    "coatOfArms": "Tenny, a sun in splendour beneath a chevron inverted argent",
+    "words": "Our Sun Shines Bright"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f8c",
+    "name": "House Ashwood",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f8d",
+    "name": "House Baelish of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "A field of silver mockingbirds, on a green field(Vert, semé of mockingbirds argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f8e",
+    "name": "House Baelish of the Fingers",
+    "region": "The Vale",
+    "coatOfArms": "A grey stone head with fiery eyes, on a light green field(Vert, a stone head cendrée, orbed gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f8f",
+    "name": "House Ball",
+    "region": "The Reach",
+    "coatOfArms": "Three white plates upon a chevron red on a white field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f90",
+    "name": "House Banefort of Banefort",
+    "region": "The Westerlands",
+    "coatOfArms": "A black hooded man, on a grey field, within a fiery tressure(Cendrée, a hooded man sable within a tressure rayonné along the outer edge gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f91",
+    "name": "House Bar Emmon of Sharp Point",
+    "region": "The Crownlands",
+    "coatOfArms": "Fretty argent and white, a swordfish embowed haurient azure",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f92",
+    "name": "House Baratheon of Dragonstone",
+    "region": "The Crownlands",
+    "coatOfArms": "Or, a heart gules enflamed proper charged with a stag's head sable crowned of the field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f93",
+    "name": "House Baratheon of King's Landing",
+    "region": "The Crownlands",
+    "coatOfArms": "A black crowned stag and a gold lion, combatant, on a per pale gold and crimson field(Per pale or and gules, a stag, crowned, sable and a lion of the first combatant)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f94",
+    "name": "House Baratheon of Storm's End",
+    "region": "The Stormlands",
+    "coatOfArms": "A black crowned stag, on a gold field(Or, a stag salient, crowned, sable)",
+    "words": "Ours is the Fury"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f95",
+    "name": "House Beesbury of Honeyholt",
+    "region": "The Reach",
+    "coatOfArms": "Paly or and sable, on a pale of the last three beehives of the first",
+    "words": "Beware our Sting"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f96",
+    "name": "House Belmore of Strongsong",
+    "region": "The Vale",
+    "coatOfArms": "Six silver bells, 3, 2, 1, on a purple field(Purpure, six bells, 3, 2, 1, argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f97",
+    "name": "House Bettley",
+    "region": "The Westerlands",
+    "coatOfArms": "Three blue beetles, on a gold field(Or, three beetles azure)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f98",
+    "name": "House Bigglestone",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f99",
+    "name": "House Blackbar of Bandallon",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a fess sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f9a",
+    "name": "House Blackmont of Blackmont",
+    "region": "Dorne",
+    "coatOfArms": "A black vulture with a pink infant in its claws, on yellow",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f9b",
+    "name": "House Blackmyre",
+    "region": "The Neck",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f9c",
+    "name": "House Blacktyde of Blacktyde",
+    "region": "Iron Islands",
+    "coatOfArms": "Vairy vert and sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f9d",
+    "name": "House Blackwood of Raventree Hall",
+    "region": "The Riverlands",
+    "coatOfArms": "A flock of ravens surrounding a black shield charged with a dead weirwood, on a scarlet field(Gules, on an escutcheon sable a dead weirwood tree proper, all within an orle of ravens volant sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f9e",
+    "name": "House Blanetree",
+    "region": "The Riverlands",
+    "coatOfArms": "Green and brown maple leaves, strewn across a yellow field(Or, semé of maple leaves vert and tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85f9f",
+    "name": "House Blount",
+    "region": "The Crownlands",
+    "coatOfArms": "A red bend sinister between two black porcupines, on a green field(Vert, a bend sinister gules between two porcupines sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa0",
+    "name": "House Boggs",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa1",
+    "name": "House Boggs of Crackclaw Point",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa2",
+    "name": "House Bole",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa3",
+    "name": "House Bolling",
+    "region": "The Stormlands",
+    "coatOfArms": "Vairy orange and blue, upon a black canton, a golden stag beneath an orange bend sinister(Vairy tenné and azure, on a canton sable a stag or debruised by a bend sinister of the first)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa4",
+    "name": "House Bolton of the Dreadfort",
+    "region": "The North",
+    "coatOfArms": "A red flayed man on pink de sang",
+    "words": "Our Blades are Sharp"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa5",
+    "name": "House Borrell of Sweetsister",
+    "region": "The Vale",
+    "coatOfArms": "A white spider crab, on a grey-green field(Vert-cendrée, a spider crab argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa6",
+    "name": "House Botley of Lordsport",
+    "region": "Iron Islands",
+    "coatOfArms": "Vert, semy of fishes argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa7",
+    "name": "House Bracken of Stone Hedge",
+    "region": "The Riverlands",
+    "coatOfArms": "A red stallion upon a gold shield, on a brown field(Tenné, on an escutcheon or a stallion rampant gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa8",
+    "name": "House Branch",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fa9",
+    "name": "House Branfield",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85faa",
+    "name": "House Brax of Hornvale",
+    "region": "The Westerlands",
+    "coatOfArms": "A purple unicorn, on a silver field(Argent, a unicorn rampant purpure)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fab",
+    "name": "House Breakstone",
+    "region": "The Vale",
+    "coatOfArms": "A red sledge",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fac",
+    "name": "House Briar",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fad",
+    "name": "House Bridges",
+    "region": "The Reach",
+    "coatOfArms": "A black stone bridge with three arches upon a golden chief above three blue pallets on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fae",
+    "name": "House Brightstone",
+    "region": "The Vale",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85faf",
+    "name": "House Brook",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb0",
+    "name": "House Broom",
+    "region": "The Westerlands",
+    "coatOfArms": "A silver helm crested with a sprig of broom, on a checkered black and green field(Chequy sable and vert, a helm argent, crested with a sprig of broom proper)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb1",
+    "name": "House Brownhill",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb2",
+    "name": "House Brune of Brownhollow",
+    "region": "The Crownlands",
+    "coatOfArms": "Argent, a bear's paw erased within a double tressure tenné",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb3",
+    "name": "House Brune of the Dyre Den",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb4",
+    "name": "House Buckler of Bronzegate",
+    "region": "The Stormlands",
+    "coatOfArms": "Three brass buckles, on a blue field(Azure, three buckles or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb5",
+    "name": "House Buckwell of the Antlers",
+    "region": "The Crownlands",
+    "coatOfArms": "A rack of golden antlers, on a field of vair(Vair, a stag's attire or)",
+    "words": "Pride and Purpose"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb6",
+    "name": "House Bulwer of Blackcrown",
+    "region": "The Reach",
+    "coatOfArms": "Sanguine, a bull`s skull argent",
+    "words": "Death Before Disgrace"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb7",
+    "name": "House Burley",
+    "region": "The North",
+    "coatOfArms": "White, upon a pile azure a knife white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb8",
+    "name": "House Bushy",
+    "region": "The Reach",
+    "coatOfArms": "A green fess embattled on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fb9",
+    "name": "House Butterwell",
+    "region": "The Riverlands",
+    "coatOfArms": "Barry wavy green, white, and yellow(Barry wavy vert, argent, and or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fba",
+    "name": "House Byrch",
+    "region": "The Crownlands",
+    "coatOfArms": "Gryonny white and black quartered with a silver axe on a green field(Quarterly, first and fourth, gyronny argent and sable, second and third, vert, an axe palewise argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fbb",
+    "name": "House Bywater",
+    "region": "The Crownlands",
+    "coatOfArms": "Blue frets on a white field, three silver fish on a blue chief(Argent fretty azure, on a chief of the second three fish of the field)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fbc",
+    "name": "House Cafferen of Fawnton",
+    "region": "The Stormlands",
+    "coatOfArms": "Two white fawns counter salient, on a green field(Vert, two fawns counter-salient argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fbd",
+    "name": "House Cargyll",
+    "region": "The Crownlands",
+    "coatOfArms": "Bendy sinister sable and gules, a goose Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fbe",
+    "name": "House Caron of Nightsong",
+    "region": "The Stormlands",
+    "coatOfArms": "A field of black nightingales on yellow(Or, semé of nightingales sable)",
+    "words": "No Song so Sweet"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fbf",
+    "name": "House Cassel",
+    "region": "The North",
+    "coatOfArms": "Ten white wolf heads, 4-3-2-1, on grey with a black border",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc0",
+    "name": "House Casterly of Casterly Rock",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc1",
+    "name": "House Caswell of Bitterbridge",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a centaur with bow or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc2",
+    "name": "House Cave",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc3",
+    "name": "House Celtigar of Claw Isle",
+    "region": "The Crownlands",
+    "coatOfArms": "Argent, semy of crabs gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc4",
+    "name": "House Cerwyn of Cerwyn",
+    "region": "The North",
+    "coatOfArms": "Argent, a battle-axe paleways sable",
+    "words": "Honed and Ready"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc5",
+    "name": "House Chambers",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc6",
+    "name": "House Charlton",
+    "region": "The Riverlands",
+    "coatOfArms": "Three sprigs of mistletoe, green and red, on a gold field within a green border(Or, three sprigs of mistletoe vert, fructed gules, within a bordure of the second)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc7",
+    "name": "House Chelsted",
+    "region": "The Crownlands",
+    "coatOfArms": "Per bend green and white shield, a spiked mace and a silver dagger crossed(Per bend vert and argent, in pale a mace surmounted by a dagger in fesse of the second)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc8",
+    "name": "House Chester of Greenshield",
+    "region": "The Reach",
+    "coatOfArms": "A green hand on a gold escutcheon on a green field, a border of red rayonne",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fc9",
+    "name": "House Chyttering",
+    "region": "The Crownlands",
+    "coatOfArms": "Three golden enhanced bendlets on a white shield(Argent, three bendlets enhanced or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fca",
+    "name": "House Clegane",
+    "region": "The Westerlands",
+    "coatOfArms": "Three dogs on a yellow field(Or, three dogs courant in pale sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fcb",
+    "name": "House Clifton",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fcc",
+    "name": "House Cockshaw",
+    "region": "The Reach",
+    "coatOfArms": "Sable, three feathers in fess gules argent and or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fcd",
+    "name": "House Codd",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": "Though All Men Do Despise Us"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fce",
+    "name": "House Coldwater of Coldwater Burn",
+    "region": "The Vale",
+    "coatOfArms": "A blue pall with white borders, on a red field(Gules, a pall azure, fimbriated argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fcf",
+    "name": "House Cole",
+    "region": "The Stormlands",
+    "coatOfArms": "Ten black pellets, on a scarlet field(Gules, ten pellets, 4, 3, 2, 1)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd0",
+    "name": "House Condon",
+    "region": "The North",
+    "coatOfArms": "An eagle's head between crossed tridents, red on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd1",
+    "name": "House Conklyn",
+    "region": "The Reach",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd2",
+    "name": "House Connington of Griffin's Roost",
+    "region": "The Stormlands",
+    "coatOfArms": "Two combatant griffins, counterchanged, on a red and white field(Per pale gules and argent, two griffins combatant counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd3",
+    "name": "House Cordwayner of Hammerhal",
+    "region": "The Reach",
+    "coatOfArms": "Lozengny vert and or, a pair of boots sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd4",
+    "name": "House Costayne of Three Towers",
+    "region": "The Reach",
+    "coatOfArms": "Quarterly; sable, a chalice argent; or, a rose sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd5",
+    "name": "House Crabb",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd6",
+    "name": "House Crakehall of Crakehall",
+    "region": "The Westerlands",
+    "coatOfArms": "A brindled boar on a brown field(Tenné, a boar brindled sable and argent)",
+    "words": "None so Fierce"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd7",
+    "name": "House Crane of Red Lake",
+    "region": "The Reach",
+    "coatOfArms": "Azure, cranes in chevron or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd8",
+    "name": "House Cray",
+    "region": "The Neck",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fd9",
+    "name": "House Cressey",
+    "region": "The Crownlands",
+    "coatOfArms": "Seven silver coins on a red bend sinister, between two silver helmets, on a blue field(Azure, on a bend sinister gules seven plates, between two helmets argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fda",
+    "name": "House Crowl of Deepdown",
+    "region": "The North",
+    "coatOfArms": "Pily gules and sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fdb",
+    "name": "House Cuy of Sunhouse",
+    "region": "The Reach",
+    "coatOfArms": "Six yellow flowers on blue",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fdc",
+    "name": "House Dalt of Lemonwood",
+    "region": "Dorne",
+    "coatOfArms": "Purpure, semy of lemons Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fdd",
+    "name": "House Dargood",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fde",
+    "name": "House Darke",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fdf",
+    "name": "House Darklyn of Duskendale",
+    "region": "The Crownlands",
+    "coatOfArms": "Fusily sable and or, upon a pale in dexter gules seven escutcheons argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe0",
+    "name": "House Darkwood",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe1",
+    "name": "House Darry of Darry",
+    "region": "The Riverlands",
+    "coatOfArms": "A black plowman on a brown field(Tenné, a plowman sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe2",
+    "name": "House Dayne of High Hermitage",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe3",
+    "name": "House Dayne of Starfall",
+    "region": "Dorne",
+    "coatOfArms": "A white sword and falling star crossed on lilac (Purpure, a blazing star bendways surmounted by a sword bendways sinister argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe4",
+    "name": "House Deddings",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe5",
+    "name": "House Doggett",
+    "region": "The Westerlands",
+    "coatOfArms": "Per bend, a white unicorn on a green field, a black raven on a white field(Per bend vert and argent, in sinister chief a unicorn rampant of the second, and in dexter base a raven closed sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe6",
+    "name": "House Dondarrion of Blackhaven",
+    "region": "The Stormlands",
+    "coatOfArms": "A forked purple lightning bolt, on black field speckled with four-pointed stars(Sable, semé of mullets of four points argent, a lightning bolt forked purpure)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe7",
+    "name": "House Donniger",
+    "region": "The Vale",
+    "coatOfArms": "A red sun rising from a grey-green sea, against a yellow sky(Per fesse wavy or and vert-cendrée, a demi-sun-in-splendour issuant from the line of division gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe8",
+    "name": "House Drinkwater",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fe9",
+    "name": "House Drox",
+    "region": "The Westerlands",
+    "coatOfArms": "Three black crossbows, on a gold field with a black border(Or, three crossbows within a bordure sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fea",
+    "name": "House Drumm of Old Wyk",
+    "region": "Iron Islands",
+    "coatOfArms": "Gules, a bone hand argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85feb",
+    "name": "House Dryland",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fec",
+    "name": "House Dunn",
+    "region": "The Reach",
+    "coatOfArms": "per pale black and pink, a countercharged two-headed pelican",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fed",
+    "name": "House Durrandon",
+    "region": "The Stormlands",
+    "coatOfArms": "A black crowned stag, on a gold field(Or, a stag salient, crowned, sable)",
+    "words": "Ours is the Fury"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fee",
+    "name": "House Durwell",
+    "region": "The Reach",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fef",
+    "name": "House Dustin of Barrowton",
+    "region": "The North",
+    "coatOfArms": "Two rusted longaxes with black shafts crossed, a black crown between their points, on yellow",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff0",
+    "name": "House Edgerton",
+    "region": "The Crownlands",
+    "coatOfArms": "Purpure, a wheel flaming tenny quartered with half-fusilly sable and argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff1",
+    "name": "House Egen",
+    "region": "The Vale",
+    "coatOfArms": "A yellow sun, white crescent moon, and silver star on a blue chief, above a white field(Argent, on a chief azure a moon increscent of the first between a sun-in-splendour or and a mullet of the first)",
+    "words": "By Day or Night"
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff2",
+    "name": "House Elesham of the Paps",
+    "region": "The Vale",
+    "coatOfArms": "A black star between an inverted stone-coloured double-pile, on a pink field(Carnation, a mullet sable between two piles issuant from base cendrée)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff3",
+    "name": "House Erenford",
+    "region": "The Riverlands",
+    "coatOfArms": "A golden heron, beak and legs black, standing with a silver fish in its beak, on a pink field(Carnation, a heron or, beaked and membered sable, clasped in its mouth a fish argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff4",
+    "name": "House Errol of Haystack Hall",
+    "region": "The Stormlands",
+    "coatOfArms": "A yellow haystack, on an orange field(Tenné, a haystack or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff5",
+    "name": "House Estermont of Greenstone",
+    "region": "The Stormlands",
+    "coatOfArms": "A dark-green sea-turtle on a pale-green field(Vert, a sea-turtle tergiant of the field)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff6",
+    "name": "House Estren of Wyndhall",
+    "region": "The Westerlands",
+    "coatOfArms": "A green saltire between four red double-headed eagles, on a white field(Argent, a saltire vert between four double-headed eagles displayed gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff7",
+    "name": "House Falwell",
+    "region": "The Westerlands",
+    "coatOfArms": "A fool in red and gold motley juggling five suns, on a black field(Sable, a fool proper clothed in motley gules and or, juggling five suns-in-splendour of the last)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff8",
+    "name": "House Farman of Faircastle",
+    "region": "The Westerlands",
+    "coatOfArms": "Three silver ships on a blue field with a border of crimson and gold(Azure, three galleys argent within a bordure compony gules and or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ff9",
+    "name": "House Farring",
+    "region": "The Crownlands",
+    "coatOfArms": "Per pale purpure and argent, two knights combatant crossing swords counterchanged",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ffa",
+    "name": "House Farwynd of Sealskin Point",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ffb",
+    "name": "House Farwynd of the Lonely Light",
+    "region": "Iron Islands",
+    "coatOfArms": "Per fess wavy tenny and sable, a demi-torteaux gules issuant from the division surmounted by a longship sailing upon the division of the second",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ffc",
+    "name": "House Fell of Felwood",
+    "region": "The Stormlands",
+    "coatOfArms": "Per fess, a white crescent moon on a black field above a green field, a sprucetree line between(Per fess sapinagé vert and sable, in dexter chief a moon increscent argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ffd",
+    "name": "House Fenn",
+    "region": "The Neck",
+    "coatOfArms": "Purpure, three water lilies sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85ffe",
+    "name": "House Ferren",
+    "region": "The Westerlands",
+    "coatOfArms": "Per saltire, checkered red and gold, a silver and black ferret on a green field(Per saltire chequy gules and or and vert, in each flank point a ferret argent and sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db85fff",
+    "name": "House Fisher",
+    "region": "The Riverlands",
+    "coatOfArms": "A crowned catfish, spotted grey, on a blue field(Azure, a catfish cendrée, crowned or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86000",
+    "name": "House Fisher of the Stony Shore",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86001",
+    "name": "House Flint  of the mountains",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86002",
+    "name": "House Flint of Breakstone Hill",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86003",
+    "name": "House Flint of Flint's Finger",
+    "region": "The North",
+    "coatOfArms": "Paly sable and cendrée on a pall inverted argent a hand couped of the second",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86004",
+    "name": "House Flint of Widow's Watch",
+    "region": "The North",
+    "coatOfArms": "Azure, semy of whitecaps argent on a chief wavy Or two eyes of the second irised of the first and pupiled sable",
+    "words": "Ever Vigilant"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86005",
+    "name": "House Florent of Brightwater Keep",
+    "region": "The Reach",
+    "coatOfArms": "A red fox in a circle of blue flowers on ermine",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86006",
+    "name": "House Follard",
+    "region": "The Crownlands",
+    "coatOfArms": "Gyronny gules and argent, on a canton Or a fool's cap two peaked of the first and second",
+    "words": "None so Wise"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86007",
+    "name": "House Foote",
+    "region": "The Westerlands",
+    "coatOfArms": "A copper dagger across a black chevron, on a white field(Argent, a chevron reversed sable, surmounted by a dagger erect tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86008",
+    "name": "House Foote of Nightsong",
+    "region": "The Stormlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86009",
+    "name": "House Footly of Tumbleton",
+    "region": "The Reach",
+    "coatOfArms": "a field of silver caltrops on black",
+    "words": "Tread Lightly Here"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8600a",
+    "name": "House Forrester",
+    "region": "The North",
+    "coatOfArms": "an ironwood tree outline with a sword outline drawn inside it, pointing down. (Telltale)",
+    "words": "Iron from Ice (Telltale)"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8600b",
+    "name": "House Fossoway of Cider Hall",
+    "region": "The Reach",
+    "coatOfArms": "Or, an apple gules",
+    "words": "Taste of Glory"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8600c",
+    "name": "House Fossoway of New Barrel",
+    "region": "The Reach",
+    "coatOfArms": "Or, an apple vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8600d",
+    "name": "House Fowler of Skyreach",
+    "region": "Dorne",
+    "coatOfArms": "Argent, a hooded hawk trussed azure",
+    "words": "Let Me Soar"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8600e",
+    "name": "House Frey of Riverrun",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8600f",
+    "name": "House Frey of the Crossing",
+    "region": "The Riverlands",
+    "coatOfArms": "Two blue towers, united by a bridge, on a silver-grey field(Cendrée, a bridge azure, at either end a tower of the same)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86010",
+    "name": "House Frost",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86011",
+    "name": "House Gardener of Highgarden",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a hand couped vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86012",
+    "name": "House Gargalen of Salt Shore",
+    "region": "Dorne",
+    "coatOfArms": "Or, a cockatrice gules, in its beak a serpent sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86013",
+    "name": "House Garner",
+    "region": "The Westerlands",
+    "coatOfArms": "Three grey owls upon white plates, on a green field(Vert, three plates, each charged with an owl close affronté cendrée)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86014",
+    "name": "House Gaunt",
+    "region": "The Crownlands",
+    "coatOfArms": "Purpure, three lances palewise in fess between two flaunches sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86015",
+    "name": "House Glenmore",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86016",
+    "name": "House Glover of Deepwood Motte",
+    "region": "The North",
+    "coatOfArms": "Gules, a gauntlet argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86017",
+    "name": "House Goodbrook",
+    "region": "The Riverlands",
+    "coatOfArms": "A blue wavy bend, on a gold field(Or, a bend wavy azure)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86018",
+    "name": "House Goodbrother of Corpse Lake",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86019",
+    "name": "House Goodbrother of Crow Spike Keep",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8601a",
+    "name": "House Goodbrother of Downdelving",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8601b",
+    "name": "House Goodbrother of Hammerhorn",
+    "region": "Iron Islands",
+    "coatOfArms": "Gules, a warhorn sable banded or.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8601c",
+    "name": "House Goodbrother of Orkmont",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8601d",
+    "name": "House Goodbrother of Shatterstone",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8601e",
+    "name": "House Gower",
+    "region": "The Stormlands",
+    "coatOfArms": "Nine yellow trefoils on a black cross, on an ermine field(Ermine, on a cross sable nine trefoils or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8601f",
+    "name": "House Graceford of Holyhall",
+    "region": "The Reach",
+    "coatOfArms": "Tenny, on a pale wavy argent the Mother's face proper",
+    "words": "Work Her Will"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86020",
+    "name": "House Grafton of Gulltown",
+    "region": "The Vale",
+    "coatOfArms": "A yellow tower, burning, on a black pile, on a flame-red field(Gules, on a pile sable a tower or with flames issuant from the battlements proper)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86021",
+    "name": "House Grandison of Grandview",
+    "region": "The Stormlands",
+    "coatOfArms": "A black sleeping lion, on a yellow field(Or, a lion dormant sable)",
+    "words": "Rouse Me Not"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86022",
+    "name": "House Graves",
+    "region": "The Reach",
+    "coatOfArms": "Green and white gyronny, a double-headed eagle counter-charged, gold beak and talons",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86023",
+    "name": "House Greenfield of Greenfield",
+    "region": "The Westerlands",
+    "coatOfArms": "A white double-tressure, on a green field(Vert, a double-tressure argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86024",
+    "name": "House Greengood",
+    "region": "The Neck",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86025",
+    "name": "House Greenwood",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86026",
+    "name": "House Grell",
+    "region": "The Riverlands",
+    "coatOfArms": "Three red martlets on a white bend, on a blue field(Azure, on a bend argent three martlets gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86027",
+    "name": "House Grey",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86028",
+    "name": "House Greyiron of Orkmont",
+    "region": "Iron Islands",
+    "coatOfArms": "The sea king's head, white with dark green seaweed beard and hair, a black crown on a grey field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86029",
+    "name": "House Greyjoy of Pyke",
+    "region": "Iron Islands",
+    "coatOfArms": "Sable, a kraken Or",
+    "words": "We Do Not Sow"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8602a",
+    "name": "House Greystark of Wolf's Den",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8602b",
+    "name": "House Grimm of Greyshield",
+    "region": "The Reach",
+    "coatOfArms": "An iron escutcheon with silver studs on a grey-green field strewn with longships proper",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8602c",
+    "name": "House Haigh",
+    "region": "The Riverlands",
+    "coatOfArms": "A black pitchfork on a gold bend sinister, on a russet field(Tenné, on a bend sinister or a pitchfork sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8602d",
+    "name": "House Hamell",
+    "region": "The Westerlands",
+    "coatOfArms": "An erminois maunch, on a pink field with an erminois border(Carnation, a maunch within a bordure erminois)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8602e",
+    "name": "House Harclay",
+    "region": "The North",
+    "coatOfArms": "Azure, on a bend argent a hurt between an increscent and decrescent of the first",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8602f",
+    "name": "House Hardy",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86030",
+    "name": "House Hardyng",
+    "region": "The Vale",
+    "coatOfArms": "A field of red and white diamonds(Lozengy argent and gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86031",
+    "name": "House Harlaw of Grey Garden",
+    "region": "Iron Islands",
+    "coatOfArms": "Quartered: a silver scythe on black, a peacock on cream",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86032",
+    "name": "House Harlaw of Harlaw",
+    "region": "Iron Islands",
+    "coatOfArms": "Sable, a scythe argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86033",
+    "name": "House Harlaw of Harlaw Hall",
+    "region": "Iron Islands",
+    "coatOfArms": "Per bend black and silver, two scythes counterchanged",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86034",
+    "name": "House Harlaw of Harridan Hill",
+    "region": "Iron Islands",
+    "coatOfArms": "the Harlaw scythe on a pale blue field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86035",
+    "name": "House Harlaw of the Tower of Glimmering",
+    "region": "Iron Islands",
+    "coatOfArms": "The Harlaw scythe girdled within an embattled border.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86036",
+    "name": "House Harlton",
+    "region": "The Riverlands",
+    "coatOfArms": "A silver tree on green",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86037",
+    "name": "House Harroway of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "Per bend sinister orange and sable rayonné, a castle counterchanged(Per bend sinister rayonné tenné and sable, a castle counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86038",
+    "name": "House Harte",
+    "region": "The Crownlands",
+    "coatOfArms": "Three red hart's heads caboshed on a white bend on vair",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86039",
+    "name": "House Hastwyck",
+    "region": "The Reach",
+    "coatOfArms": "Barry olive and ivory",
+    "words": "None so Dutiful"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8603a",
+    "name": "House Hasty",
+    "region": "The Stormlands",
+    "coatOfArms": "A white bend cotised, on a purple field(Purpure, a bend cotised argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8603b",
+    "name": "House Hawick of Saltpans",
+    "region": "The Riverlands",
+    "coatOfArms": "White seabirds strewn across a blue field(Azure, semé of seabirds argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8603c",
+    "name": "House Hawthorne",
+    "region": "The Westerlands",
+    "coatOfArms": "A ring of black thorns and a ring of pink flowers, interlocked, on a green field(Vert, two interlocking annulets, one composed of thorns sable, the other of flowers carnation)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8603d",
+    "name": "House Hayford of Hayford",
+    "region": "The Crownlands",
+    "coatOfArms": "Green fretty over gold, a green pale wavy",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8603e",
+    "name": "House Heddle",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8603f",
+    "name": "House Herston",
+    "region": "The Stormlands",
+    "coatOfArms": "A yellow rooster's head with red comb, within a white escutcheon, on a red field(Gules, on an escutcheon argent, a cock's head or, combed and wattled of the field)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86040",
+    "name": "House Hersy of Newkeep",
+    "region": "The Vale",
+    "coatOfArms": "A white winged chalice, on a pink field(Carnation, a winged cup displayed argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86041",
+    "name": "House Hetherspoon",
+    "region": "The Westerlands",
+    "coatOfArms": "An oak spoon within a white cartouche, on a field of orange and black diamonds(Lozengy tenné and sable, on a cartouche argent a spoon or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86042",
+    "name": "House Hewett of Oakenshield",
+    "region": "The Reach",
+    "coatOfArms": "an oaken escutcheon studded with iron on a field bendy of undulating blue and white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86043",
+    "name": "House Hightower of the Hightower",
+    "region": "The Reach",
+    "coatOfArms": "Cendrée, a tower argent with a beacon on fire gules",
+    "words": "We Light the Way"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86044",
+    "name": "House Hoare of Orkmont",
+    "region": "Iron Islands",
+    "coatOfArms": "Per saltire, two heavy silver chains crossing between a gold longship on a black field, a dark green pine on a white field, a cluster of red grapes on a gold field, and a black raven flying in a blue sky.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86045",
+    "name": "House Hogg of Sow's Horn",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86046",
+    "name": "House Hollard",
+    "region": "The Crownlands",
+    "coatOfArms": "Barry gules and carnation, a chief azure with three crowns Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86047",
+    "name": "House Holt",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86048",
+    "name": "House Holt",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86049",
+    "name": "House Hook",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8604a",
+    "name": "House Hornwood of Hornwood",
+    "region": "The North",
+    "coatOfArms": "Tenny, a bull moose trippant proper",
+    "words": "Righteous in Wrath"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8604b",
+    "name": "House Horpe",
+    "region": "The Stormlands",
+    "coatOfArms": "Per chevron engrailed grey and bone, three death's head moths counterchanged(Per chevron reversed engrailed cendrée and argent, three death's head moths counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8604c",
+    "name": "House Hull",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8604d",
+    "name": "House Humble",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8604e",
+    "name": "House Hunt",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a deer bound and slung on a pole fesswise tenny",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8604f",
+    "name": "House Hunter of Longbow Hall",
+    "region": "The Vale",
+    "coatOfArms": "Five silver arrows, fanned, on a brown field(Tenné, a sheaf of five arrows, points to chief, argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86050",
+    "name": "House Hutcheson",
+    "region": "The Reach",
+    "coatOfArms": "Or, two bendlets between in base dexter a hand pointing to chief sinister, and in chief sinister a sun in splendour gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86051",
+    "name": "House Inchfield",
+    "region": "The Reach",
+    "coatOfArms": "Cendrée, a bend sinister chequy sable and argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86052",
+    "name": "House Ironmaker",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86053",
+    "name": "House Ironsmith",
+    "region": "The North",
+    "coatOfArms": "Or, a sword palewise between four horseshoes sable all within a bordure vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86054",
+    "name": "House Jast",
+    "region": "The Westerlands",
+    "coatOfArms": "An inverted yellow pall between three yellow lions' heads, on a black field(Sable, a pall reversed between three lions' heads erased or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86055",
+    "name": "House Jordayne of the Tor",
+    "region": "Dorne",
+    "coatOfArms": "Chequy light and dark green, a quill or.",
+    "words": "Let it be Written"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86056",
+    "name": "House Justman",
+    "region": "The Riverlands",
+    "coatOfArms": "Golden scales within a blue a double tressure, on a white field(Argent, a pair of balances or within a double-tressure azure)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86057",
+    "name": "House Karstark of Karhold",
+    "region": "The North",
+    "coatOfArms": "Sable, a sunburst argent",
+    "words": "The Sun of Winter"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86058",
+    "name": "House Keath",
+    "region": "The Riverlands",
+    "coatOfArms": "Quarterly of nine; a white fish on a grey field; a gold fish hook on a white field(Quarterly of nine, first, third, fifth, seventh and ninth cendrée, a fish argent; second, fourth, sixth and eight argent, a fish-hook or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86059",
+    "name": "House Kellington",
+    "region": "The Stormlands",
+    "coatOfArms": "A black book bound in bronze, locked, on a pale blue field(Azure, a locked book sable, edged and garnished tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8605a",
+    "name": "House Kenning of Harlaw",
+    "region": "Iron Islands",
+    "coatOfArms": "Sable, issuant from a cloud bank in chief the Storm God's hand cendrée with lightning flashing from its fingertip Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8605b",
+    "name": "House Kenning of Kayce",
+    "region": "The Westerlands",
+    "coatOfArms": "Four sunbursts counterchanged on a quartered orange and black field(Quarterly tenné and sable, four suns-in-splendour counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8605c",
+    "name": "House Kettleblack",
+    "region": "The Crownlands",
+    "coatOfArms": "Gules, a kettle within an orle sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8605d",
+    "name": "House Kidwell of Ivy Hall",
+    "region": "The Reach",
+    "coatOfArms": "Cendrée masoned sable, semy of ivy leaves vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8605e",
+    "name": "House Knott",
+    "region": "The North",
+    "coatOfArms": "Argent, a saltire surmounted by a fret tenny",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8605f",
+    "name": "House Kyndall",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86060",
+    "name": "House Ladybright",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86061",
+    "name": "House Lake",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86062",
+    "name": "House Lake",
+    "region": "The North",
+    "coatOfArms": "Tenny, seven pommes arranged 2-2-2-1",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86063",
+    "name": "House Langward",
+    "region": "The Crownlands",
+    "coatOfArms": "Per fess undy: A crown of white stars on burgundy above black",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86064",
+    "name": "House Lannett",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86065",
+    "name": "House Lannister of Casterly Rock",
+    "region": "The Westerlands",
+    "coatOfArms": "A gold lion, on a crimson field(Gules, a lion or)",
+    "words": "Hear Me Roar!"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86066",
+    "name": "House Lannister of Darry",
+    "region": "The Riverlands",
+    "coatOfArms": "Quarterly, a gold lion on a red field; a black plowman on a brown field(Quarterly, first and fourth gules a lion rampant or (for Lannister), second and third tenné a plowman sable (for Darry))",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86067",
+    "name": "House Lannister of Lannisport",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86068",
+    "name": "House Lanny",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86069",
+    "name": "House Lantell",
+    "region": "The Westerlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8606a",
+    "name": "House Lefford of the Golden Tooth",
+    "region": "The Westerlands",
+    "coatOfArms": "A golden inverted pile on a sky-blue field, a yellow sun in the first(Bleu celeste, a pile reversed or, in canton a sun-in-splendor of the same)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8606b",
+    "name": "House Leygood",
+    "region": "The Reach",
+    "coatOfArms": "Tenny, three thunderbolts in fess sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8606c",
+    "name": "House Liddle",
+    "region": "The North",
+    "coatOfArms": "Per pale argent and vert, a fir tree line between, three brown pinecones on the argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8606d",
+    "name": "House Lightfoot",
+    "region": "The North",
+    "coatOfArms": "Tenny, a trail of footprints in bend sinister argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8606e",
+    "name": "House Lipps",
+    "region": "The Vale",
+    "coatOfArms": "Two large pink lips, on a dark blue field(Azure, a pair of lips carnation)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8606f",
+    "name": "House Locke of Oldcastle",
+    "region": "The North",
+    "coatOfArms": "Two bronze keys crossed on an argent pale on purpure.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86070",
+    "name": "House Lolliston",
+    "region": "The Riverlands",
+    "coatOfArms": "Three oaken barrels, on a white field(Argent, three oaken barrels proper)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86071",
+    "name": "House Long",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86072",
+    "name": "House Longthorpe of Longsister",
+    "region": "The Vale",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86073",
+    "name": "House Longwaters",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86074",
+    "name": "House Lonmouth",
+    "region": "The Stormlands",
+    "coatOfArms": "Quartered of six: red lips strewn on a yellow field, yellow skulls strewn on a black field(Quarterly of six, first, third and fifth, or, semé of lips gules, second, fourth and sixth, sable, semé of skulls of the first)",
+    "words": "The Choice is Yours"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86075",
+    "name": "House Lorch",
+    "region": "The Westerlands",
+    "coatOfArms": "A black manticore on a white field, beneath a crimson chief with three gold coins(Argent, a manticore passant sable, on a chief gules three bezants)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86076",
+    "name": "House Lothston of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "A black bat on a field per bend, silver and gold(Per bend argent and or, a bat displayed sable\")",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86077",
+    "name": "House Lowther",
+    "region": "The Reach",
+    "coatOfArms": "A silver dolphin on a blue-green field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86078",
+    "name": "House Lyberr",
+    "region": "The Reach",
+    "coatOfArms": "Per bend sinister: a grey cat's face on black, a brown jug on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86079",
+    "name": "House Lychester",
+    "region": "The Riverlands",
+    "coatOfArms": "A black talon, on an orange and white gyronny field(Gyronny tenné and argent, an eagle's leg erased sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8607a",
+    "name": "House Lydden of Deep Den",
+    "region": "The Westerlands",
+    "coatOfArms": "A white badger on a per pale green and brown field(Per pale vert and tenné, a badger passant argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8607b",
+    "name": "House Lynderly of the Snakewood",
+    "region": "The Vale",
+    "coatOfArms": "A black field strewn with green vipers(Sable, semé of snakes vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8607c",
+    "name": "House Magnar of Kingshouse",
+    "region": "The North",
+    "coatOfArms": "Argent, a lobster vert holding a harpoon sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8607d",
+    "name": "House Mallery",
+    "region": "The Crownlands",
+    "coatOfArms": "Purpure, six mullets argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8607e",
+    "name": "House Mallister of Seagard",
+    "region": "The Riverlands",
+    "coatOfArms": "A silver eagle, displayed, on an indigo field(Purpure, an eagle displayed argent)",
+    "words": "Above the Rest"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8607f",
+    "name": "House Manderly of White Harbor",
+    "region": "The North",
+    "coatOfArms": "A white merman with dark green hair, beard and tail, carrying a black trident, on a blue-green field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86080",
+    "name": "House Manning",
+    "region": "The Crownlands",
+    "coatOfArms": "A red sea lion between two black pallets on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86081",
+    "name": "House Manwoody of Kingsgrave",
+    "region": "Dorne",
+    "coatOfArms": "Sable, a skull argent crowned or.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86082",
+    "name": "House Marbrand of Ashemark",
+    "region": "The Westerlands",
+    "coatOfArms": "An orange burning tree, on a smoky field(Cendrée, a tree in flame tenné)",
+    "words": "Burning bright"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86083",
+    "name": "House Marsh",
+    "region": "The North",
+    "coatOfArms": "Or, ten frogs vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86084",
+    "name": "House Massey of Stonedance",
+    "region": "The Crownlands",
+    "coatOfArms": "A triple spiral; red, green and blue, on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86085",
+    "name": "House Meadows of Grassy Vale",
+    "region": "The Reach",
+    "coatOfArms": "a border of flowers of many colors and varieties on green",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86086",
+    "name": "House Melcolm of Old Anchor",
+    "region": "The Vale",
+    "coatOfArms": "A rusty anchor, on a turquoise field, beneath yellow chief with three blue plates(Azure, an anchor tenné, on a chief or three hurts)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86087",
+    "name": "House Merlyn of Pebbleton",
+    "region": "Iron Islands",
+    "coatOfArms": "Argent, Twining waterspouts vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86088",
+    "name": "House Merryweather of Longtable",
+    "region": "The Reach",
+    "coatOfArms": "White, a cornucopia Or spilling foods proper within a bordure Or",
+    "words": "Behold Our Bounty"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86089",
+    "name": "House Mertyns of Mistwood",
+    "region": "The Stormlands",
+    "coatOfArms": "A white great horned owl on a grey field(Cendrée, a great-horned owl close affronté argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8608a",
+    "name": "House Middlebury",
+    "region": "The Reach",
+    "coatOfArms": "Quarterly, a black saltire on yellow, green and white diamonds",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8608b",
+    "name": "House Mollen",
+    "region": "The North",
+    "coatOfArms": "White, upon a pile vert a snowy pine tree proper",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8608c",
+    "name": "House Moore",
+    "region": "The Vale",
+    "coatOfArms": "Three bronze spearheads, on a white field, within a bronze embattled border(Argent, three spearheads within a bordure embattled tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8608d",
+    "name": "House Mooton of Maidenpool",
+    "region": "The Riverlands",
+    "coatOfArms": "A red salmon within a gold tressure, on a white field(Argent, a salmon gules within a tressure or)",
+    "words": "Wisdom and Strength"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8608e",
+    "name": "House Moreland",
+    "region": "The Westerlands",
+    "coatOfArms": "Per pale barry russet and green(Per pale barry tenné and vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8608f",
+    "name": "House Mormont of Bear Island",
+    "region": "The North",
+    "coatOfArms": "A wood vert, a bear sable",
+    "words": "Here We Stand"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86090",
+    "name": "House Morrigen of Crow's Nest",
+    "region": "The Stormlands",
+    "coatOfArms": "A black crow in flight on a storm-green field(Vert, a crow volant sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86091",
+    "name": "House Moss",
+    "region": "The North",
+    "coatOfArms": "A bend orange on vairy grey and green",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86092",
+    "name": "House Mudd of Oldstones",
+    "region": "The Riverlands",
+    "coatOfArms": "A golden crown studded with emeralds, on a red-brown field(Tenné, an ancient crown or studded with emeralds vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86093",
+    "name": "House Mullendore of Uplands",
+    "region": "The Reach",
+    "coatOfArms": "Black-and-orange butterflies on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86094",
+    "name": "House Musgood",
+    "region": "The Stormlands",
+    "coatOfArms": "Quarterly: A golden pavilion on a blue field, a green laurel crown on a white field(Quarterly, first and fourth, azure, a pavilion or, second and third, argent, a garland of laurel vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86095",
+    "name": "House Myatt",
+    "region": "The Westerlands",
+    "coatOfArms": "A spotted yellow-and-black treecat, on a mud-brown field(Tenné, a treecat or pelleté)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86096",
+    "name": "House Myre of Harlaw",
+    "region": "Iron Islands",
+    "coatOfArms": "10 nooses, 4-3-2-1, black on white with a border of blood",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86097",
+    "name": "House Nayland of Hag's Mire",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86098",
+    "name": "House Netley",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86099",
+    "name": "House Norcross",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a cross embattled sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8609a",
+    "name": "House Norrey",
+    "region": "The North",
+    "coatOfArms": "Or,six thistles slipped vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8609b",
+    "name": "House Norridge",
+    "region": "The Reach",
+    "coatOfArms": "Azure, six arrows in bend sable heads flaming gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8609c",
+    "name": "House Nutt",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8609d",
+    "name": "House Nymeros Martell of Sunspear",
+    "region": "Dorne",
+    "coatOfArms": "Tenny, a sun in splendour gules transfixed by a spear bendwise Or",
+    "words": "Unbowed, Unbent, Unbroken"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8609e",
+    "name": "House Oakheart of Old Oak",
+    "region": "The Reach",
+    "coatOfArms": "Or, three oak leaves vert",
+    "words": "Our Roots Go Deep"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8609f",
+    "name": "House Oldflowers",
+    "region": "The Reach",
+    "coatOfArms": "Vert, ten hands couped argent surmounted by a bend sinister gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a0",
+    "name": "House Orkwood of Orkmont",
+    "region": "Iron Islands",
+    "coatOfArms": "Or, semy of pines vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a1",
+    "name": "House Orme",
+    "region": "The Reach",
+    "coatOfArms": "Per fess sable and bendy Or and argent, in chief three harps in fess of the seocnd",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a2",
+    "name": "House Osgrey of Leafy Lake",
+    "region": "The Reach",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a3",
+    "name": "House Osgrey of Standfast",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a lion rampant chequy vert and or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a4",
+    "name": "House Overton",
+    "region": "The North",
+    "coatOfArms": "Sable, a fess chequy argent and Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a5",
+    "name": "House Paege",
+    "region": "The Riverlands",
+    "coatOfArms": "Twining red-and-white snakes, on a black field(Sable, two serpents argent and gules entwined palewise)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a6",
+    "name": "House Parren",
+    "region": "The Westerlands",
+    "coatOfArms": "Per saltire: burgundy and white stripes; a black lion's head on a gold field(Per saltire, the first paly gules and argent, the second or, a lion's head erased sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a7",
+    "name": "House Payne",
+    "region": "The Westerlands",
+    "coatOfArms": "Gold coins in the checks of a checkered purple and white field(Chequy purpure and argent, each chequer charged with a bezant)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a8",
+    "name": "House Peake of Starpike",
+    "region": "The Reach",
+    "coatOfArms": "Tenny, three castles sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860a9",
+    "name": "House Peasebury of Poddingfield",
+    "region": "The Stormlands",
+    "coatOfArms": "A green pea pod, burst open, on a white field, bordered by three rows of green peas(Argent, a pea pod open within a bordure of three rows of peas vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860aa",
+    "name": "House Peat",
+    "region": "The Neck",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ab",
+    "name": "House Peckledon",
+    "region": "The Westerlands",
+    "coatOfArms": "Ten purple stars, on a yellow field(Or, ten mullets, 4, 3, 2, 1, purpure)",
+    "words": "Unflinching"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ac",
+    "name": "House Penrose of Parchments",
+    "region": "The Stormlands",
+    "coatOfArms": "White crossed quills, on a russet field(Tenné, two quills saltirewise argent)",
+    "words": "Set Down Our Deeds"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ad",
+    "name": "House Perryn",
+    "region": "The Riverlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ae",
+    "name": "House Piper of Pinkmaiden",
+    "region": "The Riverlands",
+    "coatOfArms": "A pink dancing maiden in a swirl of white silk, on a blue field(Azure, a maiden dancing proper enwrapped with silk argent)",
+    "words": "Brave and Beautiful"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860af",
+    "name": "House Plumm",
+    "region": "The Westerlands",
+    "coatOfArms": "Three purple roundels, on a gold field(Or, three golpes)",
+    "words": "Come Try Me"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b0",
+    "name": "House Pommingham",
+    "region": "The Reach",
+    "coatOfArms": "A red pomegranate on white, a double tressure red",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b1",
+    "name": "House Poole",
+    "region": "The North",
+    "coatOfArms": "White, a roundel azure, a tressure cendrée",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b2",
+    "name": "House Prester of Feastfires",
+    "region": "The Westerlands",
+    "coatOfArms": "A red ox, on an ermine field(Ermine, an ox passant gules)",
+    "words": "Tireless"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b3",
+    "name": "House Pryor of Pebble",
+    "region": "The Vale",
+    "coatOfArms": "A partial eclipse, black moon over yellow sun, on a dusty pink field(Carnation, a sun-in-splendour or surmounted by a moon in her complement sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b4",
+    "name": "House Pyle",
+    "region": "The Crownlands",
+    "coatOfArms": "A grey iron greathelm on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b5",
+    "name": "House Pyne",
+    "region": "The Crownlands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b6",
+    "name": "House Qoherys of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "A flaming red and yellow saltire between four white skulls, on a black field(Sable, a saltire rayonné gules, tipped or, between four skulls argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b7",
+    "name": "House Qorgyle of Sandstone",
+    "region": "Dorne",
+    "coatOfArms": "Gules, three scorpions sable.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b8",
+    "name": "House Quagg",
+    "region": "The Neck",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860b9",
+    "name": "House Rambton",
+    "region": "The Crownlands",
+    "coatOfArms": "Gules, a ram's head cabossed argent attired or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ba",
+    "name": "House Redbeard",
+    "region": "Beyond the Wall",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860bb",
+    "name": "House Redding",
+    "region": "The Reach",
+    "coatOfArms": "Gules, a flagon Or within a bordure chequy Or and argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860bc",
+    "name": "House Redfort of Redfort",
+    "region": "The Vale",
+    "coatOfArms": "A red castle, on a white field, within a red embattled border(Argent, a castle within a bordure embattled gules)",
+    "words": "As Strong as Stone"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860bd",
+    "name": "House Redwyne of the Arbor",
+    "region": "The Reach",
+    "coatOfArms": "Azure, a grape cluster proper",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860be",
+    "name": "House Reed of Greywater Watch",
+    "region": "The Neck",
+    "coatOfArms": "Vert, a lizard-lion sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860bf",
+    "name": "House Reyne of Castamere",
+    "region": "The Westerlands",
+    "coatOfArms": "A red lion rampant regardant with a forked tail, with gold teeth and claws, on a silver field(Argent, a lion rampant regardant queue-fourché gules, armed and langued or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c0",
+    "name": "House Rhysling",
+    "region": "The Reach",
+    "coatOfArms": "An oaken door banded with iron, in a grey stone doorway, on black masonry",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c1",
+    "name": "House Risley",
+    "region": "The Reach",
+    "coatOfArms": "A black knight on a black rearing horse on white, bearing a golden lance and a white shield, upon which is seen the above in miniature",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c2",
+    "name": "House Rogers of Amberly",
+    "region": "The Stormlands",
+    "coatOfArms": "Nine silver unicorns around a silver maze, on a black field(Sable, a maze surrounded by an orle of nine unicorns rampant argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c3",
+    "name": "House Rollingford",
+    "region": "The Crownlands",
+    "coatOfArms": "Six roundels fountain, 3-2-1, on grey",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c4",
+    "name": "House Roote of Lord Harroway's Town",
+    "region": "The Riverlands",
+    "coatOfArms": "A brown double-headed horse on a field of wavy green and green(Wavy vert and vert, a two-headed horse tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c5",
+    "name": "House Rosby of Rosby",
+    "region": "The Crownlands",
+    "coatOfArms": "Ermine, three chevronels gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c6",
+    "name": "House Rowan of Goldengrove",
+    "region": "The Reach",
+    "coatOfArms": "Argent, a tree eradicated",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c7",
+    "name": "House Roxton of the Ring",
+    "region": "The Reach",
+    "coatOfArms": "Bleu celeste, per saltire a chain of rings Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c8",
+    "name": "House Royce of Runestone",
+    "region": "The Vale",
+    "coatOfArms": "Black iron studs on a bronze field, bordered with runes(Tenné pelletée, an orle of ancient runes sable)",
+    "words": "We Remember"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860c9",
+    "name": "House Royce of the Gates of the Moon",
+    "region": "The Vale",
+    "coatOfArms": "A black portcullis over a white crescent moon, on a purple field, bordered with runes on bronze(Purpure, a moon increscent argent surmounted by a portcullis sable, all within a bordure tenné charged with ancient runes of the third)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ca",
+    "name": "House Ruthermont",
+    "region": "The Vale",
+    "coatOfArms": "Five black starfish on a gold pale, on a field of pean(Pean, on a pale or five starfish sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860cb",
+    "name": "House Ruttiger",
+    "region": "The Westerlands",
+    "coatOfArms": "An orange engrailed bend, on a black field(Sable, a bend tenné engrailed)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860cc",
+    "name": "House Ryder of the Rills",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860cd",
+    "name": "House Ryger of Willow Wood",
+    "region": "The Riverlands",
+    "coatOfArms": "A green weeping willow, on a white field(Argent, a willow-tree vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ce",
+    "name": "House Rykker of Duskendale",
+    "region": "The Crownlands",
+    "coatOfArms": "Azure, a cross saltire argent charged with two crossed warhammers sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860cf",
+    "name": "House Ryswell of the Rills",
+    "region": "The North",
+    "coatOfArms": "Bronze, a horse's head sable orbed and maned gules within a bordure engrailed sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d0",
+    "name": "House Saltcliffe of Saltcliffe",
+    "region": "Iron Islands",
+    "coatOfArms": "Argent, a serpent nine-headed sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d1",
+    "name": "House Santagar of Spottswood",
+    "region": "Dorne",
+    "coatOfArms": "Per bend sinister azure and argent, a leopard rampant Or spotted sable bearing an axe of the third",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d2",
+    "name": "House Sarsfield of Sarsfield",
+    "region": "The Westerlands",
+    "coatOfArms": "A green arrow on a white bend, on a green field(Vert, on a bend argent an arrow of the field, point to dexter chief)",
+    "words": "True to the Mark"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d3",
+    "name": "House Sarwyck",
+    "region": "The Westerlands",
+    "coatOfArms": "A broken silver sword on red",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d4",
+    "name": "House Seaworth of Cape Wrath",
+    "region": "The Stormlands",
+    "coatOfArms": "A black ship on a pale grey field, with a white onion on its sails(Cendrée, a ship sable, its sail charged with an onion argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d5",
+    "name": "House Selmy of Harvest Hall",
+    "region": "The Stormlands",
+    "coatOfArms": "Three stalks of yellow wheat, on a brown field(Tenné, three stalks of wheat or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d6",
+    "name": "House Serrett of Silverhill",
+    "region": "The Westerlands",
+    "coatOfArms": "A peacock in his pride, on a cream field(Argent, a peacock-in-his-pride proper)",
+    "words": "I Have No Rival"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d7",
+    "name": "House Serry of Southshield",
+    "region": "The Reach",
+    "coatOfArms": "Argent, an escutcheon gules charged with a rose of the first all within a bordure embattled of the second",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d8",
+    "name": "House Sharp",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860d9",
+    "name": "House Shawney",
+    "region": "The Riverlands",
+    "coatOfArms": "Per fesse, a divided blue, red, green field above, a white catfish on a black field below(Per fesse, the first tierced in pale azure, gules and vert, the second sable, a catfish argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860da",
+    "name": "House Shell",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860db",
+    "name": "House Shell",
+    "region": "The Vale",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860dc",
+    "name": "House Shepherd",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860dd",
+    "name": "House Shermer of Smithyton",
+    "region": "The Reach",
+    "coatOfArms": "a field of copper nails on blue, a copper border rayonne",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860de",
+    "name": "House Shett of Gull Tower",
+    "region": "The Vale",
+    "coatOfArms": "Three golden wings, bendwise, on a checkered white and black field(Chequy argent and sable, in bend three dexter wings elevated bendwise or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860df",
+    "name": "House Shett of Gulltown",
+    "region": "The Vale",
+    "coatOfArms": "Nine white seagulls on a field of brown(Tenné, nine seagulls argent, 3, 3, 2, 1)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e0",
+    "name": "House Slate of Blackpool",
+    "region": "The North",
+    "coatOfArms": "Pale grey, a double tressure white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e1",
+    "name": "House Sloane",
+    "region": "The Reach",
+    "coatOfArms": "Per pale, white stars strewn on indigo, an orange sun on yellow",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e2",
+    "name": "House Slynt of Harrenhal",
+    "region": "None",
+    "coatOfArms": "A bloody gold spear, on a black field, within a checkered gold and black border(Sable, a spear or, tipped gules, within a bordure chequy of the field and of the second)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e3",
+    "name": "House Smallwood of Acorn Hall",
+    "region": "The Riverlands",
+    "coatOfArms": "Six brown acorns, on a yellow field(Or, six acorns, 3, 2, 1, tenné)",
+    "words": "From These Beginnings"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e4",
+    "name": "House Sparr of Great Wyk",
+    "region": "Iron Islands",
+    "coatOfArms": "an oak saltire on blue",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e5",
+    "name": "House Spicer of Castamere",
+    "region": "The Westerlands",
+    "coatOfArms": "Three black pepperpots on a saffron bend, across a field of green and silver stripes (Paly vert and argent, three pepperpots sable on a bend tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e6",
+    "name": "House Stackhouse",
+    "region": "The Reach",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e7",
+    "name": "House Stackspear",
+    "region": "The Westerlands",
+    "coatOfArms": "Two crossed black spears, on a checkered silver and gold field(Chequy argent and or, two spears in saltire sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e8",
+    "name": "House Staedmon of Broad Arch",
+    "region": "The Stormlands",
+    "coatOfArms": "A black dagger piercing a red heart on a white de sang field, within an undulating red border(Argent goutté-de-sang, a heart gules transfixed by a dagger sable, all within a bordure wavy of the second)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860e9",
+    "name": "House Stane of Driftwood Hall",
+    "region": "The North",
+    "coatOfArms": "A driftwood tree, bare and brown, on pale green",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ea",
+    "name": "House Stark of Winterfell",
+    "region": "The North",
+    "coatOfArms": "A running grey direwolf, on an ice-white field",
+    "words": "Winter is Coming"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860eb",
+    "name": "House Staunton of Rook's Rest",
+    "region": "The Crownlands",
+    "coatOfArms": "two black wings upon a white fess on checkered black and grey",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ec",
+    "name": "House Stokeworth of Stokeworth",
+    "region": "The Crownlands",
+    "coatOfArms": "Vert, a lamb couchant argent holding a goblet or",
+    "words": "Proud to be Faithful"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ed",
+    "name": "House Stonehouse of Old Wyk",
+    "region": "Iron Islands",
+    "coatOfArms": "a black brazier on a grey masonry field",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ee",
+    "name": "House Stonetree of Harlaw",
+    "region": "Iron Islands",
+    "coatOfArms": "A bare stone tree, grey on black",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ef",
+    "name": "House Stout of Goldgrass",
+    "region": "The North",
+    "coatOfArms": "Chevronny tenné and Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f0",
+    "name": "House Strong of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "A tripartite pale, blue, red, and green, on a white field(Argent, a pale tierced per pale azure, gules, and vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f1",
+    "name": "House Sunderland of the Three Sisters",
+    "region": "The Vale",
+    "coatOfArms": "Three women's heads, white with black hair, on a barry wavy blue and green field(Barry wavy azure and vert, three women's heads argents, crined sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f2",
+    "name": "House Sunderly of Saltcliffe",
+    "region": "Iron Islands",
+    "coatOfArms": "A drowned man, pink and pale, floating upright in a blue-green sea",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f3",
+    "name": "House Sunglass of Sweetport Sound",
+    "region": "The Crownlands",
+    "coatOfArms": "Argent, seven mullets of seven points or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f4",
+    "name": "House Swann of Stonehelm",
+    "region": "The Stormlands",
+    "coatOfArms": "Battling swans black and white, beaks and feet golden, on per pale white and black field(Per pale argent and sable, two swans combatant counterchanged, beaked and membered or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f5",
+    "name": "House Swyft of Cornfield",
+    "region": "The Westerlands",
+    "coatOfArms": "A blue bantam rooster, on a yellow field(Or, a cock close azure)",
+    "words": "Awake! Awake!"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f6",
+    "name": "House Swygert",
+    "region": "The Stormlands",
+    "coatOfArms": "A white scroll with gold knobs, on a purple field within a white tressure(Purpure a scroll argent, knobbed or, within a tressure of the second)",
+    "words": "Truth Conquers"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f7",
+    "name": "House Tallhart of Torrhen's Square",
+    "region": "The North",
+    "coatOfArms": "Tenny, three sentinel trees vert",
+    "words": "Proud and Free"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f8",
+    "name": "House Tarbeck of Tarbeck Hall",
+    "region": "The Westerlands",
+    "coatOfArms": "A seven-pointed star, parts silver parts blue, on a silver and blue field(Gyronny argent and azure, a star of seven points counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860f9",
+    "name": "House Targaryen of King's Landing",
+    "region": "The Crownlands",
+    "coatOfArms": "Sable, a dragon thrice-headed gules",
+    "words": "Fire and Blood"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860fa",
+    "name": "House Tarly of Horn Hill",
+    "region": "The Reach",
+    "coatOfArms": "Vert, a huntsman striding to dexter proper garbed gules",
+    "words": "First in Battle"
+  },
+  {
+    "id": "5e5aef1f8201264f9db860fb",
+    "name": "House Tarth of Evenfall Hall",
+    "region": "The Stormlands",
+    "coatOfArms": "Quartered, yellow sun on a rose-coloured field and white crescents on a blue field(Quarterly, first and fourth, carnation, a sun-in-splendour or, second and third, azure, a moon increscent argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860fc",
+    "name": "House Tawney of Orkmont",
+    "region": "Iron Islands",
+    "coatOfArms": "A scourge of nettles, red and black, on white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860fd",
+    "name": "House Teague",
+    "region": "The Riverlands",
+    "coatOfArms": "A golden trident upright between two golden flanches, on a black field(Sable, between two flaunches a trident erect or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860fe",
+    "name": "House Terrick",
+    "region": "The Riverlands",
+    "coatOfArms": "Per saltire purple and gold, four hawks' heads countercharged(Per saltire purpure and or, four hawks' heads counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db860ff",
+    "name": "House Thenn",
+    "region": "The North",
+    "coatOfArms": "Argent, a sun in splendour gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86100",
+    "name": "House Thorne",
+    "region": "The Crownlands",
+    "coatOfArms": "Gules, a flail argent within an bordure rayonne sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86101",
+    "name": "House Toland of Ghost Hill",
+    "region": "Dorne",
+    "coatOfArms": "Or, a dragon biting its tail vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86102",
+    "name": "House Tollett of the Grey Glen",
+    "region": "The Vale",
+    "coatOfArms": "Pily grey and black(Pily cendrée and sable)",
+    "words": "When All is Darkest"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86103",
+    "name": "House Torrent of Littlesister",
+    "region": "The Vale",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86104",
+    "name": "House Towers",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86105",
+    "name": "House Towers of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "Five black towers within a red and black double tressure, on a white field(Argent, five towers sable within a double-tressure, the outer gules and the inner of the second)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86106",
+    "name": "House Toyne",
+    "region": "The Stormlands",
+    "coatOfArms": "A black winged heart, on a gold field, within a black embattled borderOr, a winged heart within a bordure embattled sable)",
+    "words": "Fly High, Fly Far"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86107",
+    "name": "House Trant of Gallowsgrey",
+    "region": "The Stormlands",
+    "coatOfArms": "A black hanged man, on a blue field(Azure, a hanged man sable)",
+    "words": "So End Our Foes"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86108",
+    "name": "House Tudbury",
+    "region": "The Stormlands",
+    "coatOfArms": "A brown tortoise within a yellow lozenge, on a green field(Vert, on a lozenge or a tortoise tergiant tenné)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86109",
+    "name": "House Tully of Riverrun",
+    "region": "The Riverlands",
+    "coatOfArms": "A leaping silver trout on a field of blue and mud red(Paly wavy azure and gules, a trout embowed argent)",
+    "words": "Family, Duty, Honor"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8610a",
+    "name": "House Turnberry",
+    "region": "The Westerlands",
+    "coatOfArms": "Nine strawberries on a white saltire, on a field of green and red vairy in point(Vairy-in-point vert and gules, on a saltire argent nine strawberries of the second)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8610b",
+    "name": "House Tyrell of Brightwater Keep",
+    "region": "The Reach",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8610c",
+    "name": "House Tyrell of Highgarden",
+    "region": "The Reach",
+    "coatOfArms": "Vert, a rose Or",
+    "words": "Growing Strong"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8610d",
+    "name": "House Uffering",
+    "region": "The Reach",
+    "coatOfArms": "Paly tenné and cendrée, upon a chief argent seven hands couped vert",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8610e",
+    "name": "House Uller of Hellholt",
+    "region": "Dorne",
+    "coatOfArms": "per fess rayonny Or and gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8610f",
+    "name": "House Umber of the Last Hearth",
+    "region": "The North",
+    "coatOfArms": "Gules, a roaring giant proper with shattered chains argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86110",
+    "name": "House Upcliff",
+    "region": "The Vale",
+    "coatOfArms": "A cresting sea-green wave, on a black field(Sable, a wave cresting vert)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86111",
+    "name": "House Vaith of the Red Dunes",
+    "region": "Dorne",
+    "coatOfArms": "Tenny, on a pile Or three leopards statant sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86112",
+    "name": "House Vance of Atranta",
+    "region": "The Riverlands",
+    "coatOfArms": "Quartered, a green dragon on a white field and a white tower on a black field(Quarterly, first and fourth, argent, a dragon vert, second and third, sable, a tower argent)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86113",
+    "name": "House Vance of Wayfarer's Rest",
+    "region": "The Riverlands",
+    "coatOfArms": "Quartered, a black dragon on a white field and two golden eyes in a golden ring on a black field(Quarterly, first and fourth, argent, a dragon sable, second and third, sable, a pair of eyes within an annulet or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86114",
+    "name": "House Varner",
+    "region": "The Reach",
+    "coatOfArms": "Ermines, a weasel argent",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86115",
+    "name": "House Velaryon of Driftmark",
+    "region": "The Crownlands",
+    "coatOfArms": "seahorse rampant argent, on sea green",
+    "words": "The Old, the True, the Brave"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86116",
+    "name": "House Vikary",
+    "region": "The Westerlands",
+    "coatOfArms": "Quarterly: a red boar's head on a white field; beneath a gold bend sinister, a silver lion rampant regardant with a forked tail, with gold teeth and claws, on a red field.",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86117",
+    "name": "House Volmark",
+    "region": "Iron Islands",
+    "coatOfArms": "Cendrée, a leviathan sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86118",
+    "name": "House Vyrwel of Darkdell",
+    "region": "The Reach",
+    "coatOfArms": "a silver wyvern within a red double tressure on sable",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86119",
+    "name": "House Wade",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8611a",
+    "name": "House Wagstaff",
+    "region": "The Stormlands",
+    "coatOfArms": "Five yellow mascles, on a green field(Vert, five mascles in fess or)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8611b",
+    "name": "House Waterman",
+    "region": "The North",
+    "coatOfArms": "Argent, two oars saltirewise tenny between as many flaunces azure",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8611c",
+    "name": "House Waxley of Wickenden",
+    "region": "The Vale",
+    "coatOfArms": "Three candles, white with red flames, within silver candle holders, on a grey field within a black border(Cendrée, three candles in holders argent, flamed gules, within a bordure sable)",
+    "words": "Light in Darkness"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8611d",
+    "name": "House Wayn",
+    "region": "The Riverlands",
+    "coatOfArms": "Four wheels counterchanged on a quartered blue and white field(Quarterly azure and argent, four wheels counterchanged)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8611e",
+    "name": "House Waynwood of Ironoaks",
+    "region": "The Vale",
+    "coatOfArms": "A broken black wheel, on a green field(Vert, a wheel broken sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8611f",
+    "name": "House Weaver",
+    "region": "Iron Islands",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86120",
+    "name": "House Webber of Coldmoat",
+    "region": "The Reach",
+    "coatOfArms": "Sable, a cobweb argent thereon a spider gules",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86121",
+    "name": "House Wells",
+    "region": "Dorne",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86122",
+    "name": "House Wells",
+    "region": "The North",
+    "coatOfArms": "Per fess cendrée and lozengy argent and vert, in chief five pellets",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86123",
+    "name": "House Wendwater",
+    "region": "The Crownlands",
+    "coatOfArms": "A green engrailed pall, inverted on white, dividing three trees, green, red and bare",
+    "words": "For All Seasons"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86124",
+    "name": "House Wensington",
+    "region": "The Stormlands",
+    "coatOfArms": "Two golden trumpets crossed on a blue field, beneath a gold chief with three black stags(Azure, two trumpets saltirewise or, on a chief of the second three stags salient sable)",
+    "words": "Sound The Charge"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86125",
+    "name": "House Westbrook",
+    "region": "The Reach",
+    "coatOfArms": "Two green bars gemmel on gold",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86126",
+    "name": "House Westerling of the Crag",
+    "region": "The Westerlands",
+    "coatOfArms": "Six white shells, on a sand-coloured field(Or, six escallops argent)",
+    "words": "Honor, Not Honors"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86127",
+    "name": "House Westford",
+    "region": "The Westerlands",
+    "coatOfArms": "A black dog on blue",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86128",
+    "name": "House Whent of Harrenhal",
+    "region": "The Riverlands",
+    "coatOfArms": "Nine black bats, on a yellow field(Or, nine bats, 4, 3, 2, displayed sable)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86129",
+    "name": "House Whitehill",
+    "region": "The North",
+    "coatOfArms": "A white pile inverted on indigo, an arch of 4-pointed stars above",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8612a",
+    "name": "House Willum",
+    "region": "The Reach",
+    "coatOfArms": "three silver longswords crossed on black beneath a dragonbone skeleton on a white chief",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8612b",
+    "name": "House Wode",
+    "region": "The Riverlands",
+    "coatOfArms": "Three white hedgehogs, on a yellow field(Or, three hedgehogs argent)",
+    "words": "Touch Me Not"
+  },
+  {
+    "id": "5e5aef1f8201264f9db8612c",
+    "name": "House Woodfoot of Bear Island",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8612d",
+    "name": "House Woods",
+    "region": "The North",
+    "coatOfArms": "",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8612e",
+    "name": "House Woodwright",
+    "region": "The Reach",
+    "coatOfArms": "A red pall on a field of oak",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db8612f",
+    "name": "House Woolfield",
+    "region": "The North",
+    "coatOfArms": "Three woolsacks, white on purple, a white border",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86130",
+    "name": "House Wull",
+    "region": "The North",
+    "coatOfArms": "Azure, three wooden buckets tenné, a bordure chequy cendrée and white",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86131",
+    "name": "House Wydman",
+    "region": "The Vale",
+    "coatOfArms": "Five splintered lances, 3, 2, striped blue and white with blue pennons, on a yellow field, beneath a white chief bearing a red castle, a green viper, a black broken wheel, a purple unicorn and a yellow lion.",
+    "words": "Right Conquers Might"
+  },
+  {
+    "id": "5e5aef1f8201264f9db86132",
+    "name": "House Wyl of the Boneway",
+    "region": "Dorne",
+    "coatOfArms": "A black adder biting a heel on yellow",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86133",
+    "name": "House Wylde of Rain House",
+    "region": "The Stormlands",
+    "coatOfArms": "A blue-green maelstrom, on a gold field(Or, a maelstrom azure)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86134",
+    "name": "House Wynch of Iron Holt",
+    "region": "Iron Islands",
+    "coatOfArms": "a bloody moon on purple",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86135",
+    "name": "House Wythers",
+    "region": "The Reach",
+    "coatOfArms": "a grey squirrel on white with red border",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86136",
+    "name": "House Yarwyck",
+    "region": "The Westerlands",
+    "coatOfArms": "Two bronze halberds crossed between four red diamonds, on a white field(Argent, two halberds saltirewise tenné, hafted sable, between four lozenges gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86137",
+    "name": "House Yelshire",
+    "region": "The Reach",
+    "coatOfArms": "Barry vert and Or, on a chief sable a battering-ram proper headed Or",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86138",
+    "name": "House Yew",
+    "region": "The Westerlands",
+    "coatOfArms": "A golden longbow between two crimson flaunches, on a white field(Argent, a longbow or between two flaunches gules)",
+    "words": ""
+  },
+  {
+    "id": "5e5aef1f8201264f9db86139",
+    "name": "House Yronwood of Yronwood",
+    "region": "Dorne",
+    "coatOfArms": "Or, a portcullis sable",
+    "words": "We Guard the Way"
+  }
+]
