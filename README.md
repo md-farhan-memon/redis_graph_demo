@@ -55,8 +55,8 @@ Data collected from 3 endpoints have been divided in such a way that can be used
 * Character
 * House
 ### Relationships/Edges:
-* Wrote - writer - wrote - book
-* Belongs - character - belongs (to) - house
+* Wrote : writer - wrote - book
+* Belongs : character - belongs (to) - house
 
 ## Usage
 ### Options:
@@ -77,10 +77,37 @@ Options:
                                  500, max 512)
   --help                         Show this message and exit.
 ```
+
+### Dependencies:
+```bash
+$ pip3 install click redis
+```
+
 ### Migration Command:
 ```bash
 $ python3 bulk_insert.py GOT_DEMO -n data/character.csv -n data/house.csv -n data/book.csv -n data/writer.csv -r data/wrote.csv -r data/belongs.csv
 ```
+
+### Sample RedisGraph Query Commands:
+
+##### Note:
+
+Reference images taken using Redis Insight, more details and installation steps can be found [here](https://redislabs.com/redisinsight/).
+
+Listing all the writers and books.
+
+```bash
+127.0.0.1:6379> match (w:writer)-[wrote]->(b:book) return w,b
+```
+![books.png](images/books.png)
+
+Finding all the characters that belong to either `House Stark of Winterfell` or `House Lannister of Casterly Rock`.
+
+
+```bash
+127.0.0.1:6379> match (c:character)-[belongs]->(h:house) WHERE (h.name = 'House Stark of Winterfell' OR h.name = 'House Lannister of Casterly Rock') return c,h
+```
+![characters.png](images/characters.png)
 
 ## Contributing
 

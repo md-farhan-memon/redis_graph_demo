@@ -5,18 +5,22 @@ import struct
 from timeit import default_timer as timer
 import redis
 import click
- 
+
 # Global variables
-CONFIGS = None # thresholds for batching Redis queries
-NODE_DICT = {} # global node dictionary
-TOP_NODE_ID = 0 # next ID to assign to a node
-QUERY_BUF = None # Buffer for query being constructed
+CONFIGS = None  # thresholds for batching Redis queries
+NODE_DICT = {}  # global node dictionary
+TOP_NODE_ID = 0  # next ID to assign to a node
+QUERY_BUF = None  # Buffer for query being constructed
 
 # Custom error class for invalid inputs
+
+
 class CSVError(Exception):
     pass
 
 # Official enum support varies widely between 2.7 and 3.x, so we'll use a custom class
+
+
 class Type:
     NULL = 0
     BOOL = 1
@@ -24,6 +28,8 @@ class Type:
     STRING = 3
 
 # User-configurable thresholds for when to send queries to Redis
+
+
 class Configs(object):
     def __init__(self, max_token_count, max_buffer_size, max_token_size):
         # Maximum number of tokens per query
@@ -38,6 +44,8 @@ class Configs(object):
         self.max_token_size = min(max_token_size * 1000000, 512 * 1000000)
 
 # QueryBuffer is the class that processes input CSVs and emits their binary formats to the Redis client.
+
+
 class QueryBuffer(object):
     def __init__(self, graphname, client):
         # Redis client and data for each query
@@ -54,11 +62,11 @@ class QueryBuffer(object):
         self.node_count = 0
         self.relation_count = 0
 
-        self.labels = [] # List containing all pending Label objects
-        self.reltypes = [] # List containing all pending RelationType objects
+        self.labels = []  # List containing all pending Label objects
+        self.reltypes = []  # List containing all pending RelationType objects
 
-        self.nodes_created = 0 # Total number of nodes created
-        self.relations_created = 0 # Total number of relations created
+        self.nodes_created = 0  # Total number of nodes created
+        self.relations_created = 0  # Total number of relations created
 
     # Send all pending inserts to Redis
     def send_buffer(self):
@@ -66,13 +74,15 @@ class QueryBuffer(object):
         if self.node_count == 0 and self.relation_count == 0:
             return
 
-        args = [self.node_count, self.relation_count, len(self.labels), len(self.reltypes)] + self.labels + self.reltypes
+        args = [self.node_count, self.relation_count, len(
+            self.labels), len(self.reltypes)] + self.labels + self.reltypes
         # Prepend a "BEGIN" token if this is the first query
         if self.initial_query:
             args.insert(0, "BEGIN")
             self.initial_query = False
 
-        result = self.client.execute_command("GRAPH.BULK", self.graphname, *args)
+        result = self.client.execute_command(
+            "GRAPH.BULK", self.graphname, *args)
         stats = result.split(', '.encode())
         self.nodes_created += int(stats[0].split(' '.encode())[0])
         self.relations_created += int(stats[1].split(' '.encode())[0])
@@ -95,23 +105,27 @@ class QueryBuffer(object):
               % (self.graphname, self.nodes_created, self.relations_created, runtime))
 
 # Superclass for label and relation CSV files
+
+
 class EntityFile(object):
     def __init__(self, filename):
         # The label or relation type string is the basename of the file
-        self.entity_str = os.path.splitext(os.path.basename(filename))[0].encode('utf-8')
+        self.entity_str = os.path.splitext(os.path.basename(filename))[
+            0].encode('utf-8')
         # Input file handling
         self.infile = io.open(filename, 'rt', encoding='utf-8')
         # Initialize CSV reader that ignores leading whitespace in each field
         # and does not modify input quote characters
-        self.reader = csv.reader(self.infile, skipinitialspace=True, quoting=csv.QUOTE_NONE)
+        self.reader = csv.reader(
+            self.infile, skipinitialspace=True, quoting=csv.QUOTE_NONE)
 
-        self.prop_offset = 0 # Starting index of properties in row
-        self.prop_count = 0 # Number of properties per entity
+        self.prop_offset = 0  # Starting index of properties in row
+        self.prop_count = 0  # Number of properties per entity
 
         self.packed_header = ""
         self.binary_entities = []
-        self.binary_size = 0 # size of binary token
-        self.count_entities() # number of entities/row in file.
+        self.binary_size = 0  # size of binary token
+        self.count_entities()  # number of entities/row in file.
 
     # Count number of rows in file.
     def count_entities(self):
@@ -139,11 +153,13 @@ class EntityFile(object):
     def pack_header(self, header):
         prop_count = len(header) - self.prop_offset
         # String format
-        fmt = "=%dsI" % (len(self.entity_str) + 1) # Unaligned native, entity_string, count of properties
+        # Unaligned native, entity_string, count of properties
+        fmt = "=%dsI" % (len(self.entity_str) + 1)
         args = [self.entity_str, prop_count]
         for p in header[self.prop_offset:]:
             prop = p.encode('utf-8')
-            fmt += "%ds" % (len(prop) + 1) # encode string with a null terminator
+            # encode string with a null terminator
+            fmt += "%ds" % (len(prop) + 1)
             args.append(prop)
         return struct.pack(fmt, *args)
 
@@ -159,6 +175,8 @@ class EntityFile(object):
         return self.packed_header + b''.join(self.binary_entities)
 
 # Handler class for processing label csv files.
+
+
 class Label(EntityFile):
     def __init__(self, infile):
         super(Label, self).__init__(infile)
@@ -191,7 +209,7 @@ class Label(EntityFile):
                 if NODE_DICT is not None:
                     if row[0] in NODE_DICT:
                         print("Node identifier '%s' was used multiple times - second occurrence at %s:%d"
-                            % (row[0], self.infile.name, self.reader.line_num))
+                              % (row[0], self.infile.name, self.reader.line_num))
                         exit(1)
                     NODE_DICT[row[0]] = TOP_NODE_ID
                     TOP_NODE_ID += 1
@@ -211,9 +229,12 @@ class Label(EntityFile):
                 self.binary_size += row_binary_len
                 self.binary_entities.append(row_binary)
             QUERY_BUF.labels.append(self.to_binary())
-        print("%d nodes created with label '%s'" % (entities_created, self.entity_str))
+        print("%d nodes created with label '%s'" %
+              (entities_created, self.entity_str))
 
 # Handler class for processing relation csv files.
+
+
 class RelationType(EntityFile):
     def __init__(self, infile):
         super(RelationType, self).__init__(infile)
@@ -233,7 +254,8 @@ class RelationType(EntityFile):
                            % (self.infile.name))
 
         self.prop_offset = 2
-        self.packed_header = self.pack_header(header) # skip src and dest identifiers
+        self.packed_header = self.pack_header(
+            header)  # skip src and dest identifiers
         self.binary_size += len(self.packed_header)
         return expected_col_count
 
@@ -243,14 +265,12 @@ class RelationType(EntityFile):
             for row in reader:
                 self.validate_row(expected_col_count, row)
                 try:
-                    # print(NODE_DICT)
-                    # print(row[0])
                     src = NODE_DICT[row[0]]
                     dest = NODE_DICT[row[1]]
                 except KeyError as e:
                     print("Relationship specified a non-existent identifier.")
                     raise e
-                fmt = "=QQ" # 8-byte unsigned ints for src and dest
+                fmt = "=QQ"  # 8-byte unsigned ints for src and dest
                 row_binary = struct.pack(fmt, src, dest) + self.pack_props(row)
                 row_binary_len = len(row_binary)
                 # If the addition of this entity will make the binary token grow too large,
@@ -267,10 +287,13 @@ class RelationType(EntityFile):
                 self.binary_size += row_binary_len
                 self.binary_entities.append(row_binary)
             QUERY_BUF.reltypes.append(self.to_binary())
-        print("%d relations created for type '%s'" % (entities_created, self.entity_str))
+        print("%d relations created for type '%s'" %
+              (entities_created, self.entity_str))
 
 # Convert a single CSV property field into a binary stream.
 # Supported property types are string, numeric, boolean, and NULL.
+
+
 def prop_to_binary(prop_str):
     # All format strings start with an unsigned char to represent our Type enum
     format_str = "=B"
@@ -299,6 +322,8 @@ def prop_to_binary(prop_str):
 
 # For each node input file, validate contents and convert to binary format.
 # If any buffer limits have been reached, flush all enqueued inserts to Redis.
+
+
 def process_entity_csvs(cls, csvs):
     global QUERY_BUF
     for in_csv in csvs:
@@ -315,6 +340,8 @@ def process_entity_csvs(cls, csvs):
         QUERY_BUF.buffer_size += added_size
 
 # Command-line arguments
+
+
 @click.command()
 @click.argument('graph')
 # Redis server connection settings
@@ -328,14 +355,14 @@ def process_entity_csvs(cls, csvs):
 @click.option('--max-token-count', '-c', default=1024, help='max number of processed CSVs to send per query (default 1024)')
 @click.option('--max-buffer-size', '-b', default=2048, help='max buffer size in megabytes (default 2048)')
 @click.option('--max-token-size', '-t', default=500, help='max size of each token in megabytes (default 500, max 512)')
-
 def bulk_insert(graph, host, port, password, nodes, relations, max_token_count, max_buffer_size, max_token_size):
     global CONFIGS
     global NODE_DICT
     global TOP_NODE_ID
     global QUERY_BUF
 
-    TOP_NODE_ID = 0 # reset global ID variable (in case we are calling bulk_insert from unit tests)
+    # reset global ID variable (in case we are calling bulk_insert from unit tests)
+    TOP_NODE_ID = 0
     CONFIGS = Configs(max_token_count, max_buffer_size, max_token_size)
 
     start_time = timer()
@@ -374,6 +401,7 @@ def bulk_insert(graph, host, port, password, nodes, relations, max_token_count, 
 
     end_time = timer()
     QUERY_BUF.report_completion(end_time - start_time)
+
 
 if __name__ == '__main__':
     bulk_insert()
